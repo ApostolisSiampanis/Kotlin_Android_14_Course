@@ -1,1 +1,3 @@
 # Kotlin_Android_14_Course
+
+Practicing on Android 14 using Kotlin a [Udemy couse](https://www.udemy.com/course/android-kotlin-developer/) by [Chad Darby](https://www.udemy.com/user/denispanjuta/).
